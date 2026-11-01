@@ -1,0 +1,245 @@
+{
+ "cot_day": "2026-10-28",
+ "ts_window": [
+  1793163600,
+  1793250000
+ ],
+ "blocks": {
+  "first": 130221520,
+  "last": 130413457,
+  "gt": [
+   130221520,
+   130413457
+  ]
+ },
+ "ground_truth_check": {
+  "transfers": 17,
+  "total": 2480000,
+  "recipients": 10
+ },
+ "transfers": [
+  {
+   "tx": "0xbfc21c7712f9ac9a4169e211e0e341d14236fbc097fae2e03852cce1ef0e7952",
+   "block": 130289426,
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "amt_fj": 300000.0,
+   "ts": 1793194171,
+   "cot": "10-28 08:29:31 COT"
+  },
+  {
+   "tx": "0x76f4abaa6a14005726257d1412d9a9842af6c09a5bb6395c2604f844f9bff77d",
+   "block": 130289434,
+   "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+   "amt_fj": 24999.999999999996,
+   "ts": 1793194175,
+   "cot": "10-28 08:29:35 COT"
+  },
+  {
+   "tx": "0xdd2feb71c1dda3945b233ab7c924b1d1e6d52b7d3dcd4cc6354e3248df9b3da4",
+   "block": 130289443,
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "amt_fj": 24999.999999999996,
+   "ts": 1793194179,
+   "cot": "10-28 08:29:39 COT"
+  },
+  {
+   "tx": "0x8c6305282436e1867eeac42b859ff947dad7f0db447af34fb8ff7185d88bb0d9",
+   "block": 130289453,
+   "to": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+   "amt_fj": 24999.999999999996,
+   "ts": 1793194183,
+   "cot": "10-28 08:29:43 COT"
+  },
+  {
+   "tx": "0xe468d224801e50cf936296a8f79b6bc9dc13d14bede24bd9945312e597b2074e",
+   "block": 130289462,
+   "to": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+   "amt_fj": 24999.999999999996,
+   "ts": 1793194188,
+   "cot": "10-28 08:29:48 COT"
+  },
+  {
+   "tx": "0x7e8f90f49597397529cc81cea8723debc2dd08da35ba78999fcc2840dc4cad0c",
+   "block": 130289472,
+   "to": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+   "amt_fj": 24999.999999999996,
+   "ts": 1793194192,
+   "cot": "10-28 08:29:52 COT"
+  },
+  {
+   "tx": "0x0c7d758ba9955a141839d137c2830b41860eb00ccdb0bb1a10ef33829e9b1bb6",
+   "block": 130289480,
+   "to": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+   "amt_fj": 300000.0,
+   "ts": 1793194196,
+   "cot": "10-28 08:29:56 COT"
+  },
+  {
+   "tx": "0x825b5c67d1cf033e9f756dcd5c69f683d77f2478ee0ee5d8f6b04d42df05c8ae",
+   "block": 130290580,
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "amt_fj": 300000.0,
+   "ts": 1793194691,
+   "cot": "10-28 08:38:11 COT"
+  },
+  {
+   "tx": "0x388a55851ce63aaf984e6671f305155b165c47225dc5d7dab0e47d8ce2763372",
+   "block": 130292025,
+   "to": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+   "amt_fj": 10000.0,
+   "ts": 1793195342,
+   "cot": "10-28 08:49:02 COT"
+  },
+  {
+   "tx": "0x69fea445443ca8d27e43d3c11f53aaa34a2edc7e997e84668409d86eb021abb5",
+   "block": 130305844,
+   "to": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+   "amt_fj": 24999.999999999996,
+   "ts": 1793201563,
+   "cot": "10-28 10:32:43 COT"
+  },
+  {
+   "tx": "0x3f4d252efc70064dd841e062847aad926bebca630137787832c77b10fd246de5",
+   "block": 130305853,
+   "to": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+   "amt_fj": 300000.0,
+   "ts": 1793201567,
+   "cot": "10-28 10:32:47 COT"
+  },
+  {
+   "tx": "0x4f591ad86bb514247d59dbc91cf5793b0a63f22b9e73929aa4bb05946cc3f1f9",
+   "block": 130305864,
+   "to": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+   "amt_fj": 120000.0,
+   "ts": 1793201572,
+   "cot": "10-28 10:32:52 COT"
+  },
+  {
+   "tx": "0x00b7423c3baf0986ceda24d5286733747a5aed181106a8cf166f6319eacd94bd",
+   "block": 130329034,
+   "to": "0xca58696564492ef9c3229c89072365b253bda246",
+   "amt_fj": 150000.0,
+   "ts": 1793212000,
+   "cot": "10-28 13:26:40 COT"
+  },
+  {
+   "tx": "0x41f5bc43f9d147a414d86778cfee19c21b62da0d8fed1f9e22cd04f36b283c8e",
+   "block": 130375885,
+   "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+   "amt_fj": 250000.0,
+   "ts": 1793233087,
+   "cot": "10-28 19:18:07 COT"
+  },
+  {
+   "tx": "0x36485b4966c1dbcd0198d840a865c4e97e2fec32c5f1f74cf55f5030d88bae37",
+   "block": 130375893,
+   "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+   "amt_fj": 49999.99999999999,
+   "ts": 1793233090,
+   "cot": "10-28 19:18:10 COT"
+  },
+  {
+   "tx": "0x9af6e7e8ba53540a930d3a7c532af1637c6ccc6324067ab402693b24aff992b0",
+   "block": 130375904,
+   "to": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+   "amt_fj": 250000.0,
+   "ts": 1793233095,
+   "cot": "10-28 19:18:15 COT"
+  },
+  {
+   "tx": "0xcdbada2d2795f663a10fdb373337139f93b11256a6dfe102368c4538149412a5",
+   "block": 130409040,
+   "to": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+   "amt_fj": 300000.0,
+   "ts": 1793248010,
+   "cot": "10-28 23:26:50 COT"
+  }
+ ],
+ "recipients": [
+  "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+  "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+  "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+  "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+  "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+  "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+  "0xca58696564492ef9c3229c89072365b253bda246",
+  "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+  "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+  "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8"
+ ],
+ "total_fj": 2480000.0,
+ "first_funders": [
+  {
+   "recipient": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+   "first_block": 130409040,
+   "funder": null,
+   "funding_tx": null,
+   "mode": "internal (sponsor unidentified keylessly)"
+  },
+  {
+   "recipient": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+   "first_block": 130289462,
+   "funder": null,
+   "funding_tx": null,
+   "mode": "internal (sponsor unidentified keylessly)"
+  },
+  {
+   "recipient": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+   "first_block": 124103796,
+   "funder": "0x67f5d43cbd8129bf41aae37a609aac44bd55dd1f",
+   "funding_tx": "0xb5a5215482c7cade369d789258eb4da375a32d62aa0392d669e56256d6d36ed8",
+   "mode": "top-level"
+  },
+  {
+   "recipient": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "first_block": 130289426,
+   "funder": null,
+   "funding_tx": null,
+   "mode": "internal (sponsor unidentified keylessly)"
+  },
+  {
+   "recipient": "0xa21fc88bd8c17cae306089d7b00a1f5cd5ad3ee9",
+   "first_block": 128955356,
+   "funder": "0xca7ded7e4f4ba8ab3b10009236ae6d1b95094589",
+   "funding_tx": "0x322f5447e749887d2ea22c54536959d2a9f06890005c0ac2306d368e265c5840",
+   "mode": "top-level"
+  },
+  {
+   "recipient": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+   "first_block": 130289453,
+   "funder": null,
+   "funding_tx": null,
+   "mode": "internal (sponsor unidentified keylessly)"
+  },
+  {
+   "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+   "first_block": 130097514,
+   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+   "funding_tx": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+   "mode": "top-level"
+  },
+  {
+   "recipient": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+   "first_block": 130289472,
+   "funder": null,
+   "funding_tx": null,
+   "mode": "internal (sponsor unidentified keylessly)"
+  },
+  {
+   "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+   "first_block": 126835408,
+   "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+   "funding_tx": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+   "mode": "top-level"
+  },
+  {
+   "recipient": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+   "first_block": 130305844,
+   "funder": null,
+   "funding_tx": null,
+   "mode": "internal (sponsor unidentified keylessly)"
+  }
+ ],
+ "generated": "2026-11-01T04:04:09Z",
+ "runtime_s": 326.3
+}
